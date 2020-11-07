@@ -1,0 +1,11 @@
+/*--------------------- HEADER ---------------------*/
+#banner{
+  background-color: #333;
+}
+#banner nav ul li{
+  display: inline;
+}
+#banner nav ul li a{
+  color: #ffffff;
+  text-decoration: none;
+}
