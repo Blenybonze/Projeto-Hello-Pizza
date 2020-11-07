@@ -62,3 +62,16 @@ body{
 #sabores-pizzas .texto-positivo{
   color: limegreen;
 }
+
+/*--------------------- BODY ---------------------*/
+
+#copyright a{
+  display: block;
+  text-align: center;
+}
+#copyright p{
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Helvetica Neue", sans-serif;
+}
